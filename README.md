@@ -1,5 +1,5 @@
 # Project Name:
-- Student Academic Performance Exploration
+## Student Academic Performance Exploration
 
 # Project Objective:
 - To analyze student data and uncover key factors influencing academic performance, attendance, and engagement.
